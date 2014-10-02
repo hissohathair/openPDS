@@ -3,4 +3,4 @@
 *.db
 celerybeat-schedule
 openpds/settings.py
-
+*~
